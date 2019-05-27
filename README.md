@@ -8,4 +8,4 @@ Bill Screen | Indiana University | M.S. Data Science
 
 **2. [W2 Lab] Processing Basics** - Basics of using Python Notebook
 
-**3. [W3 Lab] Perception using matplotlib** - Basic usage of pandas library and then perform a small experiment to test the Stevens' power law.
+**3. [W3 Lab] Perception using matplotlib** - Using Matplotlib to illustrate Stevens' power law.

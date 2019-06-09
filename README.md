@@ -4,10 +4,10 @@ Bill Screen | Indiana University | M.S. Data Science
 
 #### PROJECT PORFOLIO: 
 
-**1. [W1 Lab] Python Setup** - Hello World with Python
+**1. Python Setup** - Hello World with Python
 
-**2. [W2 Lab] Processing Basics** - Basics of using Python Notebook
+**2. Processing Basics** - Basics of using Python Notebook
 
-**3. [W3 Lab] Perception using matplotlib** - Using Matplotlib to illustrate Stevens' power law.
+**3. Perception using matplotlib** - Using Matplotlib to illustrate Stevens' power law.
 
-**4. [W4 Lab] Quantitative colormaps** - Learn about matplotlib's colormaps.
+**4. Quantitative colormaps** - Learn about matplotlib's colormaps.

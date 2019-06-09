@@ -9,3 +9,5 @@ Bill Screen | Indiana University | M.S. Data Science
 **2. [W2 Lab] Processing Basics** - Basics of using Python Notebook
 
 **3. [W3 Lab] Perception using matplotlib** - Using Matplotlib to illustrate Stevens' power law.
+
+**4. [W4 Lab] Quantitative colormaps** - Learn about matplotlib's colormaps.
